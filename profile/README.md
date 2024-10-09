@@ -1,12 +1,67 @@
-## 모여톤 2024 👋
+# 🟧 모여톤 2024 🟠
+![현수막 (5000x900)](https://github.com/user-attachments/assets/58549a58-f762-4fb3-a92b-73fc5fe8395f)
 
-<!--
+서울권, 인천권, 경기권, 강원권 대학이 IT기술을 중점으로 하여 네트워킹 강화를 도모하는 비영리 해커톤
+- 멋쟁이사자처럼 12기 6개대학 가톨릭대, 강원대(춘천), 성결대, 성공회대, 인하대, 한양대(에리카)
+<br></br>
+## 📌 일시 및 장소
+- 일시 : 2024년 11월 2일~3일 무박 2일
+- 장소 : 성수 앨리스랩
+<br></br>
+## 📆 일정
+- 10월 09일 ~ 10월 13일 : 모여톤 신청기간
+- 10월 26일 18:00 : 주제 공개 & 팀 공개
+- 11월 02~03 : 무박 2일 해커톤 진행
+<br></br>
+### ⏲️ 당일 타임테이블
+DAY 1
+|시간|활동|비고|
+|-|-|-|
+|18:00~19:00|참가자 입장|성수 앨리스랩 프로그래밍존|
+|19:00~20:00|개회식||
+|20:00~23:00|1차 스프린트|21:00부터 돌발 퀴즈쇼 진행|
+|23:00~01:00|야식 및 이벤트 진행|라운지 수용인원이 적은 관계로 순차적으로 야식 주문 가능|
 
-**Here are some ideas to get you started:**
+DAY 2
+|시간|활동|비고|
+|-|-|-|
+|01:00~06:00|2차 스프린트||
+|06:00|제출 마감||
+|06:30~08:00|발표회|팀당 발표 5분 & 질문 3분|
+|08:00~08:30|심사 집계 및 이벤트 발표|심사 집계 시간동안 이벤트 당첨자 발표|
+|08:30~09:00|해커톤 순위 발표 및 시상|총 4개 수상 진행|
+|09:00|마무리|마무리 사진 촬영|
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 📌 해커톤 주제
+10월 26일 18:00 디스코드를 통하여 공개
+<br></br>
+## 심사 기준
+모여톤 트랙
+|차후 공개 예정|
+|-|
+
+플렉스튜디오 트랙
+|차후 공개 예정|
+|-|
+
+<br></br>
+## 🥇 시상
+|시상명|수상 팀수|상금|
+|-|-|-|
+|대상|1팀|300,000|
+|최우수상|1팀|200,000|
+|우수상|2팀|100,000|
+|플렉상|1팀|100,000|
+
+<br></br>
+## ❤️ 후원사
+|멋쟁이사자처럼|플렉스튜디오|앨리스랩|인프런|
+|-|-|-|-|
+|![멋사](https://github.com/user-attachments/assets/3da3c49c-9f6b-4092-af7a-0fa1ea920626)|![플랙스튜디오](https://github.com/user-attachments/assets/d7702c85-007a-4b55-a600-4d56db6f5226)|![앨리스랩](https://github.com/user-attachments/assets/5f4c068e-11ff-4047-b5a8-ab21c8e9dd8f)|<img width="463" alt="인프런" src="https://github.com/user-attachments/assets/b00b98f0-4b11-4b1f-920d-5c162cdaa879">|
+
+<br></br>
+## 👐 주최 주관
+- 주최: 멋쟁이사자처럼 대학
+- 주관: 모여톤 운영위원회
+<br></br>
