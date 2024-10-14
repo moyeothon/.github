@@ -56,9 +56,11 @@ DAY 2
 
 <br></br>
 ## ❤️ 후원사
-|멋쟁이사자처럼|플렉스튜디오|앨리스랩|인프런|
-|-|-|-|-|
-|![멋사](https://github.com/user-attachments/assets/3da3c49c-9f6b-4092-af7a-0fa1ea920626)|![플랙스튜디오](https://github.com/user-attachments/assets/d7702c85-007a-4b55-a600-4d56db6f5226)|![앨리스랩](https://github.com/user-attachments/assets/5f4c068e-11ff-4047-b5a8-ab21c8e9dd8f)|<img width="463" alt="인프런" src="https://github.com/user-attachments/assets/b00b98f0-4b11-4b1f-920d-5c162cdaa879">|
+|멋쟁이사자처럼|플렉스튜디오|앨리스랩|인프런|한빛미디어|
+|-|-|-|-|-|
+|![멋사](https://github.com/user-attachments/assets/3da3c49c-9f6b-4092-af7a-0fa1ea920626)|![플랙스튜디오](https://github.com/user-attachments/assets/d7702c85-007a-4b55-a600-4d56db6f5226)|![앨리스랩](https://github.com/user-attachments/assets/5f4c068e-11ff-4047-b5a8-ab21c8e9dd8f)|<img width="463" alt="인프런" src="https://github.com/user-attachments/assets/b00b98f0-4b11-4b1f-920d-5c162cdaa879">|![한빛](https://github.com/user-attachments/assets/314c6f0a-481a-4578-bda4-b7329daf309d)|
+
+
 
 <br></br>
 ## 👐 주최 주관
