@@ -1,5 +1,5 @@
 # 🟧 모여톤 2024 🟠
-![현수막 (5000x900)](https://github.com/user-attachments/assets/aae8b7f5-3742-4c89-9da6-b95cf8f46d1f)
+![현수막 (5000x900)](https://github.com/user-attachments/assets/ee8dbadf-c28b-4be7-8487-d3c06db30577)
 
 국내 다양한 권역의 대학이 IT기술을 중점으로 하여 네트워킹 강화를 도모하는 비영리 해커톤
 <br></br>
