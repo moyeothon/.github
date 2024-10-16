@@ -56,14 +56,12 @@ DAY 2
 
 <br></br>
 ## ❤️ 후원사
-|멋쟁이사자처럼|플렉스튜디오|앨리스랩|인프런|한빛미디어|
-|-|-|-|-|-|
-|![멋사](https://github.com/user-attachments/assets/3da3c49c-9f6b-4092-af7a-0fa1ea920626)|![플랙스튜디오](https://github.com/user-attachments/assets/d7702c85-007a-4b55-a600-4d56db6f5226)|![앨리스랩](https://github.com/user-attachments/assets/5f4c068e-11ff-4047-b5a8-ab21c8e9dd8f)|<img width="463" alt="인프런" src="https://github.com/user-attachments/assets/b00b98f0-4b11-4b1f-920d-5c162cdaa879">|![한빛](https://github.com/user-attachments/assets/314c6f0a-481a-4578-bda4-b7329daf309d)|
-
-
+|멋쟁이사자처럼|플렉스튜디오|앨리스랩|영림원소프트랩|인프런|한빛미디어|
+|-|-|-|-|-|-|
+|![멋사](https://github.com/user-attachments/assets/0aa5e750-2fa8-4ca5-8397-fd6cb880b23f)|![플렉스튜디오](https://github.com/user-attachments/assets/ed8de9fc-9c8f-4645-87fa-6ed116773b90)|![앨리스랩](https://github.com/user-attachments/assets/83a99fdb-f188-47c4-a6dc-73a4e66f8712)|![영림](https://github.com/user-attachments/assets/61b6336b-479e-4211-99cd-5565d578eae9)|![인프런](https://github.com/user-attachments/assets/0fbf7c1c-d2e7-4ab4-91ba-0b8428552ce2)|![한빛](https://github.com/user-attachments/assets/6c553e29-d145-49b0-a349-0b6a84f8a225)|
 
 <br></br>
 ## 👐 주최 주관
-- 주최: 멋쟁이사자처럼 대학
+- 주최: 멋쟁이사자처럼
 - 주관: 모여톤 운영위원회( 가톨릭대, 강원대, 성결대, 성공회대, 인하대, 한양대(에리카) )
 <br></br>
